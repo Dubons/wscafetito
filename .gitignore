@@ -1,2 +1,4 @@
-settings/
+/target/*
+!target/*.jar
+.settings/
 .mvn/
